@@ -29,3 +29,6 @@
 git clone https://github.com/IvantsovAnatol/TestAPIqa.git
 cd TestAPIqa
 docker-compose up -d
+API, доступно по адресу http://localhost:8000
+PostgreSQL, доступный по адресу localhost:5432
+или используйте документацию, по адресу http://localhost:8000/docs.
